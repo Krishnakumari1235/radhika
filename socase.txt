@@ -1,2 +1,3 @@
 my name is radhika
 reverse and remove
+main things
