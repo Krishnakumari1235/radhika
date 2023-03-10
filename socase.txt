@@ -1,2 +1,7 @@
 my name is radhika
 reverse and remove
+main things
+<<<<<<< HEAD
+take a change
+=======
+>>>>>>> 6a18dd0551c2d53efe9787a8b3f37a4891a38cfc
