@@ -1,2 +1,0 @@
-echo "this is good working"
-this is also a good day
